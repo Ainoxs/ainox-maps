@@ -1,12 +1,11 @@
-# Välkommen till AINOXS MAPS
+# Welcome to AINOXS MAPS
 
-Detta är den officiella GitHub Pages-sidan för MAPS-projektet.
+This is the official GitHub Pages site for the MAPS project.
 
-Besök [GitHub-repot](https://github.com/ainoxs/ainox-maps) för kod, struktur och dokumentation.
+Visit the [GitHub repo](https://github.com/ainoxs/ainox-maps) for code, structure, and documentation.
 
----
+## Quick Navigation
 
-## Snabbnavigering
-- [Vision & Syfte](README.md#vision)
-- [Principer](README.md#core-principles)
-- [Kommande Tillägg](README.md#upcoming-additions)
+- [Vision & Purpose](README.md#vision)
+- [Core Principles](README.md#core-principles)
+- [Upcoming Additions](README.md#upcoming-additions)
