@@ -1,11 +1,23 @@
-# Welcome to AINOXS MAPS
+# Welcome to AINOXS / MAPS
 
-This is the official GitHub Pages site for the MAPS project.
+**Meta-Architectural Protocol Structure (MAPS)**  
+A framework for human–AI collaboration, system governance, and symbolic logic.
 
-Visit the [GitHub repo](https://github.com/ainoxs/ainox-maps) for code, structure, and documentation.
+---
 
-## Quick Navigation
+## Start Here
 
-- [Vision & Purpose](README.md#vision)
-- [Core Principles](README.md#core-principles)
-- [Upcoming Additions](README.md#upcoming-additions)
+- [Project Overview](https://github.com/ainoxs/ainox-maps)
+- [Log Entry 001 – Inception](logs/LOG-ENTRY-001.md)
+- [Glossary & Core Principles](docs/maps_glossary.md)
+
+---
+
+## About
+
+AINOXS/MAPS is built to explore cognitive autonomy, AI protocol logic, and volitional system design.
+
+Developed by Christian Lüning  
+[LinkedIn](https://www.linkedin.com/in/25ocl/) • [GitHub](https://github.com/ainoxs)
+
+© 2025 Christian Lüning — Licensed under MIT
